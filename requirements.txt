@@ -1,0 +1,4 @@
+  psycopg[binary]==3.3.6
+  pgvector==0.5.1
+  pydantic-settings==2.16.1
+  numpy==2.5.4
